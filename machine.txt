@@ -1,0 +1,8 @@
+major use of log and sqr function are for  reducing skewness
+#Pandas
+1.creating and preprocessing data
+2.Analysing data 
+3.visuliaztion
+
+#Seriess(1 dimension array) and Dataframe(2d array) are build on top of numpy
+in dataframe each coloumn and roww are series
